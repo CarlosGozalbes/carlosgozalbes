@@ -16,6 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosgozalbes&show_icons=true&locale=en&layout=compact" alt="carlosgozalbes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosgozalbes&show_icons=true&locale=en" alt="carlosgozalbes" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlosgozalbes" alt="carlosgozalbes" /></a> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosgozalbes&" alt="carlosgozalbes" /></p>
+
